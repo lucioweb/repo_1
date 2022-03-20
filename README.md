@@ -1,6 +1,6 @@
 # repo_1
 ## Branch-1 do repo-1
-### Repositório de estudo das operações:
+### Repositório de estudo das principais operações realizadas no git:
 - branch;
 - new branch;
 - commit;
