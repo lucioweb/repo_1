@@ -7,4 +7,5 @@
 - new request;
 - create pull request;
 - pulll request;
-- merge
+- merge;
+- etc...
